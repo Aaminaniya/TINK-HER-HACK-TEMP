@@ -62,7 +62,7 @@ pip install mediapipe opencv-python pyautogui numpy pycaw comtypes
 ```
 #### Run
 ```bash
-python airvia.py]
+python airvia.py
 ```
 
 ## Project Documentation
