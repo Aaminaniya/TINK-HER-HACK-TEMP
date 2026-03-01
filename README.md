@@ -13,7 +13,7 @@
 - **Farzana M** - College of Engineering, Perumon
 
 ### Hosted Project Link
-[Access the GitHub Repository & Releases here](https://github.com/niyas-airvia/airvia-invisible-mouse)
+[Access the GitHub Repository & Releases here](https://github.com/Aaminaniya/TINK-HER-HACK-TEMP/releases/tag/v1.0.0)
 
 ### Project Description
 Airvia is an AI-powered, gesture-based control system that transforms a standard webcam into a high-precision input device. By leveraging computer vision, it allows for touch-free navigation, media control, and system shortcuts, creating a seamless "Minority Report" style interface.
